@@ -1,0 +1,3 @@
+C:\Users\Axell\source\repos\Tendencia-Algotitmo\Tendencia-Algotitmo\obj\Debug\Tendencia-Algotitmo.csproj.AssemblyReference.cache
+C:\Users\Axell\source\repos\Tendencia-Algotitmo\Tendencia-Algotitmo\obj\Debug\Tendencia-Algotitmo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axell\source\repos\Tendencia-Algotitmo\Tendencia-Algotitmo\obj\Debug\Tendencia-Algotitmo.csproj.CoreCompileInputs.cache
